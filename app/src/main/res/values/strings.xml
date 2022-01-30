@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Media</string>
+    <string name="play">PLAY</string>
+    <string name="welcome_to_imusic">Welcome to iMusic</string>
+    <string name="pause">PAUSE</string>
+    <string name="todo">TODO</string>
+</resources>
